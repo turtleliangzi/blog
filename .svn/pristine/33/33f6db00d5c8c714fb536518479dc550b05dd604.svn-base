@@ -1,0 +1,62 @@
+# Header
+menu:
+  主页: /
+  所有文章: /archives
+  随笔: /essays
+  相册: /albums
+
+# SubNav
+subnav:
+  github: "https://github.com/turtleliangzi"
+  #weibo: "#"
+  rss: "/atom.xml"
+  zhihu: "https://www.zhihu.com/people/turtlejing-zi"
+  #douban: "#"
+  #mail: "#"
+  #facebook: "#"
+  #google: "#"
+  #twitter: "#"
+  linkedin: "http://www.linkedin.com/in/%E4%BA%AE-%E5%BB%96-6b8a46103?trk=nav_responsive_tab_profile"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+favicon: /favicon.png
+
+#你的头像url
+avatar: http://img.anasit.com/uploads/2016/04/turtle.jpg
+#是否开启分享
+share_jia: true
+share_addthis: false
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: true
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+#friends: false
+#开启——
+friends:
+  csdn博客: http://blog.csdn.net/turtleo
+  个人网站: http://turtletl.com
+  公司官网: http://www.anasit.com
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 我是廖亮，anasit公司全栈工程师，创业中。既然选择了，就得踏踏实实做下去，没有付出惨痛的代价是得不到相应的回报的…
